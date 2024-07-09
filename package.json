@@ -64,10 +64,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VanOns/block-editor.git"
+    "url": "git+https://github.com/elanclarkson/block-editor.git"
   },
   "bugs": {
-    "url": "https://github.com/VanOns/block-editor/issues"
+    "url": "https://github.com/elanclarkson/block-editor/issues"
   },
-  "homepage": "https://github.com/VanOns/block-editor#readme"
+  "homepage": "https://github.com/elanclarkson/block-editor#readme"
 }
