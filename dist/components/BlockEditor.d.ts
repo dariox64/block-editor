@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import EditorSettings from '../interfaces/editor-settings';
 import Block from '../interfaces/block';
 import '@wordpress/format-library';

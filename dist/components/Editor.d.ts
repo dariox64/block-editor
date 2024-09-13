@@ -1,4 +1,3 @@
-/// <reference types="react" />
 import '../store';
 import EditorSettings from '../interfaces/editor-settings';
 export interface EditorProps {

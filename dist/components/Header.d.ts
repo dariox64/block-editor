@@ -1,4 +1,3 @@
-/// <reference types="react" />
 interface HeaderProps {
     toggleSidebar: () => void;
     sidebarOpen: boolean;

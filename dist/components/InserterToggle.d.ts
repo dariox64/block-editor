@@ -1,4 +1,3 @@
-/// <reference types="react" />
 interface InserterToggleProps {
     onToggle: () => void;
     isOpen: boolean;
