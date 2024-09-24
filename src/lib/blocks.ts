@@ -16,7 +16,7 @@ import * as cover from '@wordpress/block-library/build/cover'
 import * as file from '@wordpress/block-library/build/file'
 import * as html from '@wordpress/block-library/build/html'
 import * as mediaText from '@wordpress/block-library/build/media-text'
-import * as list from '@wordpress/block-library/build/list'
+import * as list from '@wordpress/block-library/build/list-item'
 import * as missing from '@wordpress/block-library/build/missing'
 
 import * as preformatted from '@wordpress/block-library/build/preformatted'
